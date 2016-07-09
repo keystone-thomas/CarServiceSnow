@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Service Record" max_length="40" name="x_fru_car_service_service_record" type="collection">
+        <element label="Car Time In" max_length="40" name="car_time_in" type="glide_date_time"/>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Service Type" max_length="40" name="service_type" type="string"/>
+    </element>
+</database>
