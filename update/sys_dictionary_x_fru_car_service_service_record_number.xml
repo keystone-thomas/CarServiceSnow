@@ -52,7 +52,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-07-09 13:19:49</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>416171d24fe02a00ae8de21e0210c782</sys_id>
+        <sys_id>d7423d164fe02a00ae8de21e0210c72e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Number</sys_name>
         <sys_package display_value="Car Service" source="x_fru_car_service">3d5a30cd4fa4a600ae8de21e0210c7e7</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="Car Service">3d5a30cd4fa4a600ae8de21e0210c7e7</sys_scope>
         <sys_update_name>sys_dictionary_x_fru_car_service_service_record_number</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2016-07-13 14:24:44</sys_updated_on>
+        <sys_updated_on>2016-07-13 14:28:42</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
