@@ -51,8 +51,8 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-07-09 13:19:43</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>52fb3ccd4fa4a600ae8de21e0210c70c</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>816171d24fe02a00ae8de21e0210c781</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Car Time In</sys_name>
         <sys_package display_value="Car Service" source="x_fru_car_service">3d5a30cd4fa4a600ae8de21e0210c7e7</sys_package>
@@ -60,8 +60,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Car Service">3d5a30cd4fa4a600ae8de21e0210c7e7</sys_scope>
         <sys_update_name>sys_dictionary_x_fru_car_service_service_record_car_time_in</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-07-09 13:19:43</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2016-07-13 14:24:43</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
